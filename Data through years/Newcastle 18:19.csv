@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2018-08-11,12:30,Premier League,Matchweek 1,Sat,Home,L,1,2,Tottenham,1.0,2.0,42,51749,Jamaal Lascelles,4-4-1-1,Martin Atkinson,Match Report,,15,2,17.7,0.0,0,0
+1,2018-08-18,12:30,Premier League,Matchweek 2,Sat,Away,D,0,0,Cardiff City,1.6,0.9,49,30720,Jamaal Lascelles,4-4-1-1,Craig Pawson,Match Report,,11,5,18.1,2.0,0,1
+2,2018-08-26,16:00,Premier League,Matchweek 3,Sun,Home,L,1,2,Chelsea,0.2,1.5,20,51791,Paul Dummett,5-4-1,Paul Tierney,Match Report,,6,2,21.7,0.0,0,0
+4,2018-09-01,17:30,Premier League,Matchweek 4,Sat,Away,L,1,2,Manchester City,0.5,2.0,22,53946,Jamaal Lascelles,5-4-1,Kevin Friend,Match Report,,3,2,18.4,0.0,0,0
+5,2018-09-15,15:00,Premier League,Matchweek 5,Sat,Home,L,1,2,Arsenal,0.4,1.0,37,52165,Jamaal Lascelles,4-4-1-1,Lee Probert,Match Report,,4,2,11.1,0.0,0,0
+6,2018-09-22,15:00,Premier League,Matchweek 6,Sat,Away,D,0,0,Crystal Palace,0.2,0.9,39,25679,Jamaal Lascelles,4-4-1-1,Andre Marriner,Match Report,,6,3,17.8,0.0,0,0
+7,2018-09-29,15:00,Premier League,Matchweek 7,Sat,Home,L,0,2,Leicester City,0.4,1.3,41,51523,Jamaal Lascelles,4-4-1-1,Simon Hooper,Match Report,,6,1,25.6,0.0,0,0
+8,2018-10-06,17:30,Premier League,Matchweek 8,Sat,Away,L,2,3,Manchester Utd,1.6,1.9,28,74519,Jamaal Lascelles,4-4-1-1,Anthony Taylor,Match Report,,13,8,17.5,0.0,0,0
+9,2018-10-20,15:00,Premier League,Matchweek 9,Sat,Home,L,0,1,Brighton,1.8,0.8,67,50329,Jamaal Lascelles,4-4-1-1,Andre Marriner,Match Report,,27,6,19.6,1.0,0,0
+10,2018-10-27,15:00,Premier League,Matchweek 10,Sat,Away,D,0,0,Southampton,0.4,1.1,50,30736,Jamaal Lascelles,4-4-1-1,Chris Kavanagh,Match Report,,6,0,19.6,0.0,0,0
+11,2018-11-03,15:00,Premier League,Matchweek 11,Sat,Home,W,1,0,Watford,0.5,2.0,42,49157,Jamaal Lascelles,4-4-1-1,Craig Pawson,Match Report,,10,2,21.6,2.0,0,0
+12,2018-11-10,15:00,Premier League,Matchweek 12,Sat,Home,W,2,1,Bournemouth,2.2,1.6,40,49266,Paul Dummett,4-4-1-1,Lee Probert,Match Report,,18,6,16.5,0.0,0,0
+13,2018-11-26,20:30,Premier League,Matchweek 13,Mon,Away,W,2,1,Burnley,1.6,1.8,43,20628,Ciaran Clark,5-4-1,Anthony Taylor,Match Report,,17,2,21.0,0.0,0,0
+14,2018-12-01,15:00,Premier League,Matchweek 14,Sat,Home,L,0,3,West Ham,1.0,2.5,59,51853,Federico Fernández,4-4-1-1,Paul Tierney,Match Report,,16,4,20.0,2.0,0,0
+15,2018-12-05,19:45,Premier League,Matchweek 15,Wed,Away,D,1,1,Everton,1.5,1.8,25,39350,Jamaal Lascelles,5-4-1,Lee Mason,Match Report,,8,5,13.1,0.0,0,0
+16,2018-12-09,16:00,Premier League,Matchweek 16,Sun,Home,L,1,2,Wolves,0.6,1.8,51,50223,Jamaal Lascelles,3-5-1-1,Mike Dean,Match Report,,12,4,18.7,1.0,0,0
+17,2018-12-15,15:00,Premier League,Matchweek 17,Sat,Away,W,1,0,Huddersfield,0.6,0.8,28,24036,Jamaal Lascelles,3-5-1-1,Anthony Taylor,Match Report,,8,5,23.2,1.0,0,0
+18,2018-12-22,15:00,Premier League,Matchweek 18,Sat,Home,D,0,0,Fulham,0.4,0.2,53,51237,Jamaal Lascelles,5-4-1,Martin Atkinson,Match Report,,9,0,18.1,0.0,0,0
+19,2018-12-26,15:00,Premier League,Matchweek 19,Wed,Away,L,0,4,Liverpool,0.5,2.9,26,53318,Jamaal Lascelles,5-3-2,Graham Scott,Match Report,,6,2,15.0,0.0,0,0
+20,2018-12-29,15:00,Premier League,Matchweek 20,Sat,Away,D,1,1,Watford,0.7,1.3,37,20336,Jamaal Lascelles,5-4-1,Roger East,Match Report,,8,2,21.5,0.0,0,0
+21,2019-01-02,20:00,Premier League,Matchweek 21,Wed,Home,L,0,2,Manchester Utd,0.7,2.6,36,52217,Jamaal Lascelles,5-4-1,Andre Marriner,Match Report,,14,3,19.0,0.0,0,0
+23,2019-01-12,17:30,Premier League,Matchweek 22,Sat,Away,L,1,2,Chelsea,0.5,1.3,35,40491,Jamaal Lascelles,5-4-1,Chris Kavanagh,Match Report,,9,2,15.9,0.0,0,0
+25,2019-01-19,15:00,Premier League,Matchweek 23,Sat,Home,W,3,0,Cardiff City,2.0,0.3,54,49864,Jamaal Lascelles,5-4-1,Stuart Attwell,Match Report,,16,6,15.5,0.0,0,0
+27,2019-01-29,20:00,Premier League,Matchweek 24,Tue,Home,W,2,1,Manchester City,1.1,1.4,25,50861,Jamaal Lascelles,5-4-1,Paul Tierney,Match Report,,6,1,21.9,0.0,1,1
+28,2019-02-02,12:30,Premier League,Matchweek 25,Sat,Away,L,0,1,Tottenham,0.4,2.2,29,41219,Jamaal Lascelles,5-4-1,Andre Marriner,Match Report,,8,2,19.3,0.0,0,0
+29,2019-02-11,20:00,Premier League,Matchweek 26,Mon,Away,D,1,1,Wolves,0.4,2.3,41,30687,Jamaal Lascelles,3-5-1-1,Graham Scott,Match Report,,9,3,18.5,0.0,0,0
+30,2019-02-23,15:00,Premier League,Matchweek 27,Sat,Home,W,2,0,Huddersfield,2.8,0.2,54,52174,Jamaal Lascelles,5-4-1,Kevin Friend,Match Report,,29,12,15.7,0.0,0,0
+31,2019-02-26,20:00,Premier League,Matchweek 28,Tue,Home,W,2,0,Burnley,1.4,1.6,54,48323,Jamaal Lascelles,5-4-1,Craig Pawson,Match Report,,13,3,18.1,0.0,0,0
+32,2019-03-02,17:30,Premier League,Matchweek 29,Sat,Away,L,0,2,West Ham,1.1,2.0,44,59910,Jamaal Lascelles,5-4-1,Chris Kavanagh,Match Report,,17,2,19.7,1.0,0,0
+33,2019-03-09,15:00,Premier League,Matchweek 30,Sat,Home,W,3,2,Everton,2.4,1.1,45,52242,Jamaal Lascelles,3-4-3,Lee Mason,Match Report,,18,6,19.4,0.0,0,1
+34,2019-03-16,15:00,Premier League,Matchweek 31,Sat,Away,D,2,2,Bournemouth,1.1,1.3,51,10625,Paul Dummett,5-4-1,Mike Dean,Match Report,,12,4,22.4,1.0,0,0
+35,2019-04-01,20:00,Premier League,Matchweek 32,Mon,Away,L,0,2,Arsenal,0.1,0.8,30,59869,Jamaal Lascelles,5-4-1,Anthony Taylor,Match Report,,3,1,33.5,0.0,0,0
+36,2019-04-06,15:00,Premier League,Matchweek 33,Sat,Home,L,0,1,Crystal Palace,0.9,0.9,53,51926,Jamaal Lascelles,5-4-1,Stuart Attwell,Match Report,,18,5,19.2,2.0,0,0
+37,2019-04-12,20:00,Premier League,Matchweek 34,Fri,Away,W,1,0,Leicester City,1.1,1.0,29,32108,Jamaal Lascelles,5-4-1,Chris Kavanagh,Match Report,,11,5,19.7,1.0,0,0
+38,2019-04-20,17:30,Premier League,Matchweek 35,Sat,Home,W,3,1,Southampton,1.4,1.2,44,52191,Jamaal Lascelles,5-4-1,Anthony Taylor,Match Report,,15,5,16.8,1.0,0,0
+39,2019-04-27,17:30,Premier League,Matchweek 36,Sat,Away,D,1,1,Brighton,0.4,1.3,50,30587,Jonjo Shelvey,5-4-1,Mike Dean,Match Report,,9,1,23.2,0.0,0,0
+40,2019-05-04,19:45,Premier League,Matchweek 37,Sat,Home,L,2,3,Liverpool,1.4,1.2,31,52206,Jamaal Lascelles,5-4-1,Andre Marriner,Match Report,,14,6,16.8,1.0,0,0
+41,2019-05-12,15:00,Premier League,Matchweek 38,Sun,Away,W,4,0,Fulham,2.1,0.7,33,24979,Jamaal Lascelles,5-4-1,Kevin Friend,Match Report,,13,6,18.5,0.0,0,0

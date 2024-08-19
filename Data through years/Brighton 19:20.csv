@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2019-08-10,15:00,Premier League,Matchweek 1,Sat,Away,W,3,0,Watford,0.8,0.7,51,20245.0,Lewis Dunk,3-4-3,Craig Pawson,Match Report,,5,3,17.7,0.0,0,0
+1,2019-08-17,15:00,Premier League,Matchweek 2,Sat,Home,D,1,1,West Ham,2.0,0.8,57,30459.0,Lewis Dunk,3-4-3,Anthony Taylor,Match Report,,16,4,16.9,0.0,0,0
+2,2019-08-24,15:00,Premier League,Matchweek 3,Sat,Home,L,0,2,Southampton,0.8,1.7,51,30019.0,Lewis Dunk,3-4-3,Kevin Friend,Match Report,,12,3,15.4,0.0,0,0
+4,2019-08-31,15:00,Premier League,Matchweek 4,Sat,Away,L,0,4,Manchester City,0.9,1.9,47,54386.0,Lewis Dunk,3-4-3,Jonathan Moss,Match Report,,6,1,14.7,0.0,0,0
+5,2019-09-14,15:00,Premier League,Matchweek 5,Sat,Home,D,1,1,Burnley,1.4,0.4,62,29398.0,Lewis Dunk,3-4-3,Michael Oliver,Match Report,,14,5,16.1,0.0,0,0
+6,2019-09-21,17:30,Premier League,Matchweek 6,Sat,Away,D,0,0,Newcastle Utd,1.4,0.9,71,43316.0,Lewis Dunk,3-4-3,Martin Atkinson,Match Report,,16,2,18.3,0.0,0,0
+8,2019-09-28,15:00,Premier League,Matchweek 7,Sat,Away,L,0,2,Chelsea,0.6,3.7,47,40683.0,Lewis Dunk,3-5-1-1,Chris Kavanagh,Match Report,,8,1,17.4,0.0,0,0
+9,2019-10-05,12:30,Premier League,Matchweek 8,Sat,Home,W,3,0,Tottenham,2.4,0.4,48,30610.0,Lewis Dunk,4-4-2,Jonathan Moss,Match Report,,17,6,17.6,1.0,0,0
+10,2019-10-19,15:00,Premier League,Matchweek 9,Sat,Away,L,1,2,Aston Villa,1.2,3.0,51,41826.0,Lewis Dunk,4-4-2,David Coote,Match Report,,20,5,20.3,0.0,0,0
+11,2019-10-26,15:00,Premier League,Matchweek 10,Sat,Home,W,3,2,Everton,1.2,0.9,55,30529.0,Lewis Dunk,4-4-2,Andy Madley,Match Report,,7,3,20.4,2.0,1,1
+12,2019-11-02,15:00,Premier League,Matchweek 11,Sat,Home,W,2,0,Norwich City,2.7,0.4,58,30539.0,Lewis Dunk,4-4-2,Kevin Friend,Match Report,,21,5,14.8,0.0,0,0
+13,2019-11-10,14:00,Premier League,Matchweek 12,Sun,Away,L,1,3,Manchester Utd,0.8,3.6,58,73556.0,Lewis Dunk,4-4-2,Jonathan Moss,Match Report,,6,2,11.0,0.0,0,0
+14,2019-11-23,15:00,Premier League,Matchweek 13,Sat,Home,L,0,2,Leicester City,0.6,3.6,53,30640.0,Dale Stephens,3-4-3,Mike Dean,Match Report,,7,0,15.1,0.0,0,0
+15,2019-11-30,15:00,Premier League,Matchweek 14,Sat,Away,L,1,2,Liverpool,0.8,1.3,56,53319.0,Lewis Dunk,4-3-2-1,Martin Atkinson,Match Report,,12,5,21.0,1.0,0,0
+16,2019-12-05,20:15,Premier League,Matchweek 15,Thu,Away,W,2,1,Arsenal,1.7,0.9,50,60164.0,Lewis Dunk,4-1-2-1-2◆,Graham Scott,Match Report,,20,9,14.6,1.0,0,0
+17,2019-12-08,16:30,Premier League,Matchweek 16,Sun,Home,D,2,2,Wolves,1.2,1.5,61,30189.0,Lewis Dunk,4-3-3,Jonathan Moss,Match Report,,13,5,18.0,0.0,0,0
+18,2019-12-16,19:45,Premier League,Matchweek 17,Mon,Away,D,1,1,Crystal Palace,2.3,0.7,65,24175.0,Lewis Dunk,4-2-3-1,Craig Pawson,Match Report,,15,10,19.3,0.0,0,0
+19,2019-12-21,15:00,Premier League,Matchweek 18,Sat,Home,L,0,1,Sheffield Utd,0.5,1.3,69,30505.0,Lewis Dunk,4-2-3-1,Robert Jones,Match Report,,9,2,19.4,1.0,0,0
+20,2019-12-26,12:30,Premier League,Matchweek 19,Thu,Away,L,1,2,Tottenham,1.0,0.8,46,56308.0,Dale Stephens,3-4-3,Graham Scott,Match Report,,11,5,21.5,1.0,0,0
+21,2019-12-28,12:30,Premier League,Matchweek 20,Sat,Home,W,2,0,Bournemouth,0.8,0.5,55,30441.0,Lewis Dunk,4-2-3-1,Paul Tierney,Match Report,,16,6,20.9,0.0,0,0
+22,2020-01-01,12:30,Premier League,Matchweek 21,Wed,Home,D,1,1,Chelsea,1.3,1.3,48,30559.0,Lewis Dunk,4-1-2-1-2◆,Stuart Attwell,Match Report,,16,5,16.9,1.0,0,0
+24,2020-01-11,15:00,Premier League,Matchweek 22,Sat,Away,L,0,1,Everton,1.3,1.7,47,38772.0,Lewis Dunk,3-4-3,David Coote,Match Report,,9,2,15.8,0.0,0,0
+25,2020-01-18,15:00,Premier League,Matchweek 23,Sat,Home,D,1,1,Aston Villa,1.1,0.6,55,30551.0,Lewis Dunk,4-4-2,Andy Madley,Match Report,,10,2,13.6,0.0,0,0
+26,2020-01-21,19:30,Premier League,Matchweek 24,Tue,Away,L,1,3,Bournemouth,1.8,1.4,66,10065.0,Lewis Dunk,4-4-2,Kevin Friend,Match Report,,21,8,19.4,0.0,0,0
+27,2020-02-01,15:00,Premier League,Matchweek 25,Sat,Away,D,3,3,West Ham,1.9,0.8,65,59952.0,Lewis Dunk,4-2-3-1,Michael Oliver,Match Report,,19,6,17.7,2.0,0,0
+28,2020-02-08,17:30,Premier League,Matchweek 26,Sat,Home,D,1,1,Watford,0.8,0.2,66,30443.0,Lewis Dunk,4-2-3-1,Kevin Friend,Match Report,,10,2,15.9,0.0,0,0
+29,2020-02-22,15:00,Premier League,Matchweek 27,Sat,Away,D,1,1,Sheffield Utd,1.2,1.6,35,31888.0,Lewis Dunk,5-3-2,Graham Scott,Match Report,,9,2,16.3,0.0,0,0
+30,2020-02-29,12:30,Premier League,Matchweek 28,Sat,Home,L,0,1,Crystal Palace,2.2,2.5,65,30124.0,Lewis Dunk,4-2-3-1,Martin Atkinson,Match Report,,23,8,17.8,0.0,0,0
+31,2020-03-07,15:00,Premier League,Matchweek 29,Sat,Away,D,0,0,Wolves,0.3,0.8,57,31490.0,Lewis Dunk,4-3-3,Andre Marriner,Match Report,,7,1,23.9,0.0,0,0
+32,2020-06-20,15:00,Premier League,Matchweek 30,Sat,Home,W,2,1,Arsenal,1.0,0.8,41,,Lewis Dunk,4-2-3-1,Martin Atkinson,Match Report,,9,5,16.2,0.0,0,0
+33,2020-06-23,18:00,Premier League,Matchweek 31,Tue,Away,D,0,0,Leicester City,1.1,0.6,34,,Lewis Dunk,4-2-2-2,Lee Mason,Match Report,,9,1,27.6,1.0,0,1
+34,2020-06-30,20:15,Premier League,Matchweek 32,Tue,Home,L,0,3,Manchester Utd,0.4,1.0,38,,Lewis Dunk,4-4-2,Andre Marriner,Match Report,,8,2,17.6,0.0,0,0
+35,2020-07-04,12:30,Premier League,Matchweek 33,Sat,Away,W,1,0,Norwich City,1.0,0.6,42,,Lewis Dunk,4-2-2-2,Stuart Attwell,Match Report,,8,2,16.5,0.0,0,0
+36,2020-07-08,20:15,Premier League,Matchweek 34,Wed,Home,L,1,3,Liverpool,2.4,2.5,44,,Lewis Dunk,4-3-1-2,Craig Pawson,Match Report,,12,2,13.1,0.0,0,0
+37,2020-07-11,20:00,Premier League,Matchweek 35,Sat,Home,L,0,5,Manchester City,0.2,4.4,30,,Lewis Dunk,4-4-1-1,Graham Scott,Match Report,,3,0,13.3,0.0,0,0
+38,2020-07-16,20:15,Premier League,Matchweek 36,Thu,Away,D,1,1,Southampton,0.7,2.5,33,,Lewis Dunk,3-4-1-2,Andre Marriner,Match Report,,10,2,15.1,0.0,0,0
+39,2020-07-20,18:00,Premier League,Matchweek 37,Mon,Home,D,0,0,Newcastle Utd,0.8,0.9,61,,Lewis Dunk,4-2-3-1,Simon Hooper,Match Report,,11,3,17.9,0.0,0,0
+40,2020-07-26,16:00,Premier League,Matchweek 38,Sun,Away,W,2,1,Burnley,1.2,1.7,45,,Lewis Dunk,3-4-1-2,Jonathan Moss,Match Report,,15,4,18.5,0.0,0,0

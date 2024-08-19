@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2018-08-10,20:00,Premier League,Matchweek 1,Fri,Home,W,2,1,Leicester City,1.5,1.8,47,74439,Paul Pogba,4-3-3,Andre Marriner,Match Report,,7,5,20.8,0.0,1,1
+1,2018-08-19,16:00,Premier League,Matchweek 2,Sun,Away,L,2,3,Brighton,1.4,1.7,66,30592,Paul Pogba,4-3-3,Kevin Friend,Match Report,,8,2,20.8,0.0,1,1
+2,2018-08-27,20:00,Premier League,Matchweek 3,Mon,Home,L,0,3,Tottenham,1.5,1.2,57,74400,Antonio Valencia,3-5-1-1,Craig Pawson,Match Report,,23,5,18.2,1.0,0,0
+3,2018-09-02,16:00,Premier League,Matchweek 4,Sun,Away,W,2,0,Burnley,2.5,0.8,53,21525,Antonio Valencia,4-3-3,Jonathan Moss,Match Report,,20,8,18.4,0.0,0,1
+4,2018-09-15,17:30,Premier League,Matchweek 5,Sat,Away,W,2,1,Watford,1.9,1.3,57,20537,Antonio Valencia,4-3-3,Mike Dean,Match Report,,9,6,15.0,0.0,0,0
+6,2018-09-22,15:00,Premier League,Matchweek 6,Sat,Home,D,1,1,Wolves,0.6,1.0,64,74489,Antonio Valencia,4-3-3,Kevin Friend,Match Report,,15,6,24.2,3.0,0,0
+8,2018-09-29,12:30,Premier League,Matchweek 7,Sat,Away,L,1,3,West Ham,0.7,1.4,52,56938,Ashley Young,5-3-2,Michael Oliver,Match Report,,9,4,19.4,1.0,0,0
+10,2018-10-06,17:30,Premier League,Matchweek 8,Sat,Home,W,3,2,Newcastle Utd,1.9,1.6,72,74519,Ashley Young,4-3-3,Anthony Taylor,Match Report,,18,10,17.2,1.0,0,0
+11,2018-10-20,12:30,Premier League,Matchweek 9,Sat,Away,D,2,2,Chelsea,0.8,1.8,38,40721,Ashley Young,4-2-3-1,Mike Dean,Match Report,,7,4,15.7,0.0,0,0
+13,2018-10-28,16:00,Premier League,Matchweek 10,Sun,Home,W,2,1,Everton,2.3,1.8,54,74525,Ashley Young,4-3-3,Jonathan Moss,Match Report,,13,9,19.8,0.0,0,1
+14,2018-11-03,12:30,Premier League,Matchweek 11,Sat,Away,W,2,1,Bournemouth,3.0,1.6,51,10792,Ashley Young,4-3-3,Paul Tierney,Match Report,,18,6,16.1,1.0,0,0
+16,2018-11-11,16:30,Premier League,Matchweek 12,Sun,Away,L,1,3,Manchester City,1.1,1.9,35,54316,Ashley Young,4-3-3,Anthony Taylor,Match Report,,5,0,19.5,0.0,1,1
+17,2018-11-24,15:00,Premier League,Matchweek 13,Sat,Home,D,0,0,Crystal Palace,0.9,1.2,59,74516,Ashley Young,4-3-3,Lee Mason,Match Report,,12,5,16.5,0.0,0,0
+19,2018-12-01,17:30,Premier League,Matchweek 14,Sat,Away,D,2,2,Southampton,1.1,0.7,60,30187,Ashley Young,5-3-2,Kevin Friend,Match Report,,11,5,17.9,0.0,0,0
+20,2018-12-05,20:00,Premier League,Matchweek 15,Wed,Home,D,2,2,Arsenal,1.1,1.1,45,74507,Chris Smalling,3-4-1-2,Andre Marriner,Match Report,,10,7,20.7,1.0,0,0
+21,2018-12-08,15:00,Premier League,Matchweek 16,Sat,Home,W,4,1,Fulham,2.3,1.2,62,74523,Ashley Young,4-2-3-1,Lee Probert,Match Report,,20,11,17.3,1.0,0,0
+23,2018-12-16,16:00,Premier League,Matchweek 17,Sun,Away,L,1,3,Liverpool,0.7,2.5,36,52908,Ashley Young,4-4-1-1,Martin Atkinson,Match Report,,6,2,21.4,0.0,0,0
+24,2018-12-22,17:30,Premier League,Matchweek 18,Sat,Away,W,5,1,Cardiff City,2.8,1.4,73,33028,Ashley Young,4-3-3,Michael Oliver,Match Report,,16,8,20.0,1.0,1,1
+25,2018-12-26,15:00,Premier League,Matchweek 19,Wed,Home,W,3,1,Huddersfield,1.5,1.1,64,74523,David de Gea,4-2-3-1,Jonathan Moss,Match Report,,16,10,20.1,2.0,0,0
+26,2018-12-30,16:30,Premier League,Matchweek 20,Sun,Home,W,4,1,Bournemouth,2.9,0.5,65,74556,Ashley Young,4-2-3-1,Lee Mason,Match Report,,11,8,13.5,0.0,0,0
+27,2019-01-02,20:00,Premier League,Matchweek 21,Wed,Away,W,2,0,Newcastle Utd,2.6,0.7,64,52217,Antonio Valencia,4-2-3-1,Andre Marriner,Match Report,,16,7,18.6,3.0,0,0
+29,2019-01-13,16:30,Premier League,Matchweek 22,Sun,Away,W,1,0,Tottenham,0.8,1.8,39,80062,Ashley Young,4-1-2-1-2◆,Mike Dean,Match Report,,13,8,18.6,0.0,0,0
+30,2019-01-19,15:00,Premier League,Matchweek 23,Sat,Home,W,2,1,Brighton,2.4,0.8,56,74532,Ashley Young,4-3-3,Paul Tierney,Match Report,,19,4,18.5,2.0,1,1
+32,2019-01-29,20:00,Premier League,Matchweek 24,Tue,Home,D,2,2,Burnley,3.1,0.8,73,74529,Ashley Young,4-1-4-1,Jonathan Moss,Match Report,,27,8,17.4,1.0,1,1
+33,2019-02-03,14:05,Premier League,Matchweek 25,Sun,Away,W,1,0,Leicester City,1.3,1.5,55,32148,Ashley Young,4-2-2-2,Mike Dean,Match Report,,10,6,16.0,0.0,0,0
+34,2019-02-09,12:30,Premier League,Matchweek 26,Sat,Away,W,3,0,Fulham,1.9,2.2,49,25001,David de Gea,4-3-3,Paul Tierney,Match Report,,14,6,18.1,0.0,1,1
+37,2019-02-24,14:05,Premier League,Matchweek 27,Sun,Home,D,0,0,Liverpool,0.3,0.5,36,74519,Ashley Young,4-3-1-2,Michael Oliver,Match Report,,6,3,15.5,0.0,0,0
+38,2019-02-27,20:00,Premier League,Matchweek 28,Wed,Away,W,3,1,Crystal Palace,1.0,1.7,54,25754,Ashley Young,4-3-3,Martin Atkinson,Match Report,,13,4,16.9,2.0,0,0
+39,2019-03-02,15:00,Premier League,Matchweek 29,Sat,Home,W,3,2,Southampton,2.2,0.4,64,74459,Ashley Young,4-3-1-2,Stuart Attwell,Match Report,,15,5,19.0,0.0,0,1
+41,2019-03-10,16:30,Premier League,Matchweek 30,Sun,Away,L,0,2,Arsenal,2.3,1.7,54,60000,Ashley Young,4-4-2,Jonathan Moss,Match Report,,14,4,18.0,1.0,0,0
+43,2019-03-30,15:00,Premier League,Matchweek 32,Sat,Home,W,2,1,Watford,1.6,1.5,52,74543,Ashley Young,4-3-1-2,Stuart Attwell,Match Report,,8,5,16.5,0.0,0,0
+44,2019-04-02,19:45,Premier League,Matchweek 33,Tue,Away,L,1,2,Wolves,1.8,1.8,51,31302,Ashley Young,3-5-1-1,Mike Dean,Match Report,,18,4,20.9,0.0,0,0
+46,2019-04-13,17:30,Premier League,Matchweek 34,Sat,Home,W,2,1,West Ham,2.5,1.4,43,74478,David de Gea,4-2-3-1,Graham Scott,Match Report,,12,2,21.1,0.0,2,2
+48,2019-04-21,13:30,Premier League,Matchweek 35,Sun,Away,L,0,4,Everton,0.3,1.6,52,39395,David de Gea,4-3-3,Paul Tierney,Match Report,,7,1,22.2,1.0,0,0
+49,2019-04-24,20:00,Premier League,Matchweek 31,Wed,Home,L,0,2,Manchester City,0.5,0.5,37,74431,Ashley Young,5-3-2,Andre Marriner,Match Report,,12,1,25.5,1.0,0,0
+50,2019-04-28,16:30,Premier League,Matchweek 36,Sun,Home,D,1,1,Chelsea,1.1,1.7,52,74526,Ashley Young,4-3-1-2,Martin Atkinson,Match Report,,7,4,13.6,1.0,0,0
+51,2019-05-05,14:00,Premier League,Matchweek 37,Sun,Away,D,1,1,Huddersfield,1.8,1.0,64,24263,Ashley Young,4-3-1-2,Lee Mason,Match Report,,23,7,19.0,2.0,0,0
+52,2019-05-12,15:00,Premier League,Matchweek 38,Sun,Home,L,0,2,Cardiff City,1.5,1.6,73,74457,Ashley Young,4-3-1-2,Jonathan Moss,Match Report,,26,10,19.6,1.0,0,0

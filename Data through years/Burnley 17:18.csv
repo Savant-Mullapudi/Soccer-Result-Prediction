@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2017-08-12,15:00,Premier League,Matchweek 1,Sat,Away,W,3,2,Chelsea,0.6,1.5,38,41616,Tom Heaton,4-4-1-1,Craig Pawson,Match Report,,10,5,14.5,1.0,0,0
+1,2017-08-19,15:00,Premier League,Matchweek 2,Sat,Home,L,0,1,West Brom,1.3,0.9,66,19619,Tom Heaton,4-4-1-1,Martin Atkinson,Match Report,,20,0,20.1,1.0,0,0
+3,2017-08-27,16:00,Premier League,Matchweek 3,Sun,Away,D,1,1,Tottenham,0.9,2.3,34,67862,Tom Heaton,4-4-1-1,Lee Mason,Match Report,,13,3,13.1,0.0,0,0
+4,2017-09-10,13:30,Premier League,Matchweek 4,Sun,Home,W,1,0,Crystal Palace,0.3,2.0,36,18862,Tom Heaton,4-4-2,Michael Oliver,Match Report,,4,2,18.0,0.0,0,0
+5,2017-09-16,15:00,Premier League,Matchweek 5,Sat,Away,D,1,1,Liverpool,0.2,2.2,29,53231,Ben Mee,4-4-1-1,Roger East,Match Report,,5,3,14.4,0.0,0,0
+7,2017-09-23,15:00,Premier League,Matchweek 6,Sat,Home,D,0,0,Huddersfield,0.3,0.3,52,20759,Ben Mee,4-5-1,Chris Kavanagh,Match Report,,4,2,22.4,0.0,0,0
+8,2017-10-01,14:15,Premier League,Matchweek 7,Sun,Away,W,1,0,Everton,0.4,1.1,37,38448,Ben Mee,4-4-1-1,Jonathan Moss,Match Report,,5,2,14.0,0.0,0,0
+9,2017-10-14,15:00,Premier League,Matchweek 8,Sat,Home,D,1,1,West Ham,1.2,0.9,62,20945,Ben Mee,4-4-1-1,Stuart Attwell,Match Report,,20,5,21.3,2.0,0,0
+10,2017-10-21,15:00,Premier League,Matchweek 9,Sat,Away,L,0,3,Manchester City,0.2,3.1,23,54118,Ben Mee,4-4-1-1,Roger East,Match Report,,6,0,27.2,1.0,0,0
+11,2017-10-30,20:00,Premier League,Matchweek 10,Mon,Home,W,1,0,Newcastle Utd,0.9,0.5,47,21031,Ben Mee,4-4-1-1,Mike Dean,Match Report,,12,5,16.3,0.0,0,0
+12,2017-11-04,15:00,Premier League,Matchweek 11,Sat,Away,W,1,0,Southampton,0.2,0.7,38,30491,Ben Mee,4-4-1-1,Lee Probert,Match Report,,5,1,22.9,0.0,0,0
+13,2017-11-18,15:00,Premier League,Matchweek 12,Sat,Home,W,2,0,Swansea City,1.6,0.6,39,18895,Ben Mee,4-4-1-1,Martin Atkinson,Match Report,,17,7,16.1,0.0,0,0
+14,2017-11-26,14:00,Premier League,Matchweek 13,Sun,Home,L,0,1,Arsenal,0.4,1.8,36,21722,Ben Mee,4-4-1-1,Lee Mason,Match Report,,8,2,20.7,1.0,0,0
+15,2017-11-29,19:45,Premier League,Matchweek 14,Wed,Away,W,2,1,Bournemouth,1.1,1.2,38,10302,Ben Mee,4-4-1-1,Roger East,Match Report,,10,4,18.3,1.0,0,0
+16,2017-12-02,15:00,Premier League,Matchweek 15,Sat,Away,L,0,1,Leicester City,1.0,1.4,48,30714,Ben Mee,4-4-1-1,Paul Tierney,Match Report,,14,4,17.3,0.0,0,0
+17,2017-12-09,15:00,Premier League,Matchweek 16,Sat,Home,W,1,0,Watford,0.5,1.1,49,19479,Jack Cork,4-2-3-1,Lee Probert,Match Report,,8,5,22.1,2.0,0,0
+18,2017-12-12,19:45,Premier League,Matchweek 17,Tue,Home,W,1,0,Stoke City,0.4,1.1,51,19909,Jack Cork,4-4-1-1,Mike Jones,Match Report,,10,2,18.4,0.0,0,0
+19,2017-12-16,15:00,Premier League,Matchweek 18,Sat,Away,D,0,0,Brighton,1.2,1.5,42,29921,Ben Mee,4-4-1-1,Chris Kavanagh,Match Report,,11,6,17.8,0.0,0,0
+20,2017-12-23,17:30,Premier League,Matchweek 19,Sat,Home,L,0,3,Tottenham,0.2,3.1,41,21650,Ben Mee,4-4-1-1,Michael Oliver,Match Report,,5,2,17.4,0.0,0,0
+21,2017-12-26,15:00,Premier League,Matchweek 20,Tue,Away,D,2,2,Manchester Utd,0.5,2.0,29,75046,Ben Mee,4-1-4-1,Martin Atkinson,Match Report,,3,2,16.3,1.0,0,0
+22,2017-12-30,15:00,Premier League,Matchweek 21,Sat,Away,D,0,0,Huddersfield,1.2,0.1,44,24095,Ben Mee,4-4-1-1,Paul Tierney,Match Report,,11,4,14.9,1.0,0,0
+23,2018-01-01,15:00,Premier League,Matchweek 22,Mon,Home,L,1,2,Liverpool,1.3,1.7,42,21756,Ben Mee,4-4-1-1,Roger East,Match Report,,13,4,15.8,1.0,0,0
+25,2018-01-13,15:00,Premier League,Matchweek 23,Sat,Away,L,0,1,Crystal Palace,0.7,1.4,56,24696,Ben Mee,4-2-3-1,Michael Oliver,Match Report,,8,2,15.0,0.0,0,0
+26,2018-01-20,15:00,Premier League,Matchweek 24,Sat,Home,L,0,1,Manchester Utd,1.0,0.8,48,21841,Ben Mee,4-4-1-1,Mike Dean,Match Report,,14,3,14.9,1.0,0,0
+27,2018-01-31,19:45,Premier League,Matchweek 25,Wed,Away,D,1,1,Newcastle Utd,1.0,2.2,48,50174,Ben Mee,4-4-1-1,Simon Hooper,Match Report,,11,2,17.2,0.0,0,0
+28,2018-02-03,12:30,Premier League,Matchweek 26,Sat,Home,D,1,1,Manchester City,0.9,1.8,30,21658,Ben Mee,4-4-2,Martin Atkinson,Match Report,,8,3,13.0,0.0,0,0
+29,2018-02-10,15:00,Premier League,Matchweek 27,Sat,Away,L,0,1,Swansea City,0.5,0.7,43,20179,Ben Mee,4-4-2,Andre Marriner,Match Report,,13,1,22.4,1.0,0,0
+30,2018-02-24,15:00,Premier League,Matchweek 28,Sat,Home,D,1,1,Southampton,1.3,0.8,51,20982,Ben Mee,4-4-1-1,Robert Madley,Match Report,,9,3,12.3,0.0,0,0
+31,2018-03-03,12:30,Premier League,Matchweek 29,Sat,Home,W,2,1,Everton,2.1,1.5,55,20802,Ben Mee,4-4-1-1,Chris Kavanagh,Match Report,,21,8,14.3,0.0,0,0
+32,2018-03-10,15:00,Premier League,Matchweek 30,Sat,Away,W,3,0,West Ham,1.4,0.8,48,56904,Ben Mee,4-4-1-1,Lee Mason,Match Report,,7,4,18.3,0.0,0,0
+33,2018-03-31,15:00,Premier League,Matchweek 32,Sat,Away,W,2,1,West Brom,1.3,0.5,53,23455,Ben Mee,4-4-2,Lee Probert,Match Report,,11,4,16.1,0.0,0,0
+34,2018-04-07,15:00,Premier League,Matchweek 33,Sat,Away,W,2,1,Watford,1.0,1.2,40,20044,Jack Cork,4-4-2,Paul Tierney,Match Report,,7,4,11.2,0.0,0,0
+35,2018-04-14,15:00,Premier League,Matchweek 34,Sat,Home,W,2,1,Leicester City,0.9,1.9,40,21727,Jack Cork,4-4-2,Martin Atkinson,Match Report,,8,3,17.3,0.0,0,0
+36,2018-04-19,19:45,Premier League,Matchweek 31,Thu,Home,L,1,2,Chelsea,0.2,1.7,40,21264,Jack Cork,4-4-2,Robert Madley,Match Report,,5,2,17.7,0.0,0,0
+37,2018-04-22,13:30,Premier League,Matchweek 35,Sun,Away,D,1,1,Stoke City,1.6,0.4,56,29532,Jack Cork,4-4-2,Mike Dean,Match Report,,16,7,16.0,1.0,0,0
+38,2018-04-28,15:00,Premier League,Matchweek 36,Sat,Home,D,0,0,Brighton,1.5,0.4,45,19459,Jack Cork,4-4-2,Roger East,Match Report,,10,4,12.1,1.0,0,0
+39,2018-05-06,16:30,Premier League,Matchweek 37,Sun,Away,L,0,5,Arsenal,0.3,2.6,37,59540,Jack Cork,4-4-1-1,Andre Marriner,Match Report,,6,2,18.8,0.0,0,0
+40,2018-05-13,15:00,Premier League,Matchweek 38,Sun,Home,L,1,2,Bournemouth,1.1,1.3,51,20720,Jack Cork,4-4-1-1,Paul Tierney,Match Report,,10,4,16.0,0.0,0,0

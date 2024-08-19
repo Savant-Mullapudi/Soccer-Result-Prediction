@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2017-08-12,12:30,Premier League,Matchweek 1,Sat,Home,D,3,3,Liverpool,2.1,2.6,46,20407,Heurelho Gomes,4-3-3,Anthony Taylor,Match Report,,9,4,15.9,0.0,0,0
+1,2017-08-19,15:00,Premier League,Matchweek 2,Sat,Away,W,2,0,Bournemouth,2.4,1.0,45,10501,Heurelho Gomes,4-3-3,Roger East,Match Report,,19,7,16.0,0.0,0,0
+3,2017-08-26,15:00,Premier League,Matchweek 3,Sat,Home,D,0,0,Brighton,0.3,1.1,43,20181,Heurelho Gomes,4-3-3,Graham Scott,Match Report,,8,0,21.3,0.0,0,0
+4,2017-09-09,15:00,Premier League,Matchweek 4,Sat,Away,W,2,0,Southampton,0.7,0.3,47,31435,Heurelho Gomes,4-2-3-1,Lee Probert,Match Report,,12,3,22.6,1.0,0,0
+5,2017-09-16,15:00,Premier League,Matchweek 5,Sat,Home,L,0,6,Manchester City,0.5,3.3,33,20305,Heurelho Gomes,4-2-3-1,Anthony Taylor,Match Report,,7,1,15.5,0.0,0,0
+6,2017-09-23,15:00,Premier League,Matchweek 6,Sat,Away,W,2,1,Swansea City,1.2,1.7,49,20372,Heurelho Gomes,4-2-3-1,Lee Mason,Match Report,,8,4,18.7,0.0,0,0
+7,2017-09-30,15:00,Premier League,Matchweek 7,Sat,Away,D,2,2,West Brom,1.4,1.9,65,24606,Troy Deeney,4-2-3-1,Michael Oliver,Match Report,,15,3,17.1,0.0,0,0
+8,2017-10-14,17:30,Premier League,Matchweek 8,Sat,Home,W,2,1,Arsenal,1.6,1.0,46,20384,Heurelho Gomes,3-4-3,Niel Swarbrick,Match Report,,10,1,18.7,0.0,1,1
+9,2017-10-21,12:30,Premier League,Matchweek 9,Sat,Away,L,2,4,Chelsea,1.9,1.9,48,41467,Troy Deeney,3-4-3,Jonathan Moss,Match Report,,16,5,17.1,1.0,0,0
+10,2017-10-28,15:00,Premier League,Matchweek 10,Sat,Home,L,0,1,Stoke City,1.2,1.1,69,20087,Troy Deeney,4-2-3-1,Michael Oliver,Match Report,,15,0,15.1,0.0,0,0
+11,2017-11-05,16:30,Premier League,Matchweek 11,Sun,Away,L,2,3,Everton,2.0,2.1,62,38609,Heurelho Gomes,4-3-3,Graham Scott,Match Report,,10,3,19.3,0.0,0,1
+12,2017-11-19,16:00,Premier League,Matchweek 12,Sun,Home,W,2,0,West Ham,1.0,1.6,58,20018,Heurelho Gomes,3-4-3,Andre Marriner,Match Report,,17,7,17.0,0.0,0,0
+13,2017-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,3,0,Newcastle Utd,2.0,0.9,47,52188,Heurelho Gomes,3-4-3,Chris Kavanagh,Match Report,,12,4,16.2,0.0,0,0
+14,2017-11-28,20:00,Premier League,Matchweek 14,Tue,Home,L,2,4,Manchester Utd,1.4,1.2,59,20552,Heurelho Gomes,3-5-2,Jonathan Moss,Match Report,,11,2,20.6,0.0,1,1
+15,2017-12-02,15:00,Premier League,Matchweek 15,Sat,Home,D,1,1,Tottenham,0.4,0.8,50,20278,Heurelho Gomes,3-4-3,Martin Atkinson,Match Report,,6,2,18.4,0.0,0,0
+16,2017-12-09,15:00,Premier League,Matchweek 16,Sat,Away,L,0,1,Burnley,1.1,0.5,51,19479,Troy Deeney,4-2-3-1,Lee Probert,Match Report,,11,2,15.4,0.0,0,0
+17,2017-12-12,20:00,Premier League,Matchweek 17,Tue,Away,L,1,2,Crystal Palace,1.2,1.2,47,23566,Troy Deeney,3-4-3,Lee Mason,Match Report,,7,2,15.8,0.0,0,0
+18,2017-12-16,15:00,Premier League,Matchweek 18,Sat,Home,L,1,4,Huddersfield,0.6,3.4,60,20026,Troy Deeney,3-4-3,Michael Oliver,Match Report,,13,3,16.4,0.0,0,0
+19,2017-12-23,15:00,Premier League,Matchweek 19,Sat,Away,L,0,1,Brighton,1.5,1.1,49,30473,Heurelho Gomes,4-2-3-1,Paul Tierney,Match Report,,12,1,16.0,0.0,0,0
+20,2017-12-26,15:00,Premier League,Matchweek 20,Tue,Home,W,2,1,Leicester City,1.2,1.3,49,20308,Heurelho Gomes,4-3-3,Chris Kavanagh,Match Report,,11,1,12.6,0.0,0,0
+21,2017-12-30,15:00,Premier League,Matchweek 21,Sat,Home,L,1,2,Swansea City,1.2,1.1,51,20002,Heurelho Gomes,4-2-3-1,Martin Atkinson,Match Report,,9,4,15.9,0.0,0,0
+22,2018-01-02,20:00,Premier League,Matchweek 22,Tue,Away,L,1,3,Manchester City,1.0,2.1,24,53556,Heurelho Gomes,4-2-3-1,Lee Mason,Match Report,,7,4,19.4,0.0,0,0
+24,2018-01-13,15:00,Premier League,Matchweek 23,Sat,Home,D,2,2,Southampton,2.0,0.9,56,20018,Heurelho Gomes,4-2-3-1,Roger East,Match Report,,16,4,15.6,0.0,0,0
+25,2018-01-20,15:00,Premier League,Matchweek 24,Sat,Away,L,0,2,Leicester City,0.9,1.9,46,31891,Troy Deeney,4-2-3-1,Lee Probert,Match Report,,11,3,20.4,1.0,0,0
+27,2018-01-31,20:00,Premier League,Matchweek 25,Wed,Away,D,0,0,Stoke City,0.7,0.9,51,27458,Troy Deeney,4-3-3,Jonathan Moss,Match Report,,11,2,16.6,0.0,0,0
+28,2018-02-05,20:00,Premier League,Matchweek 26,Mon,Home,W,4,1,Chelsea,2.3,0.7,45,20157,Troy Deeney,3-4-3,Mike Dean,Match Report,,20,7,21.1,0.0,1,1
+29,2018-02-10,15:00,Premier League,Matchweek 27,Sat,Away,L,0,2,West Ham,0.6,1.5,63,56197,Troy Deeney,3-4-3,Graham Scott,Match Report,,11,4,23.8,1.0,0,0
+30,2018-02-24,17:30,Premier League,Matchweek 28,Sat,Home,W,1,0,Everton,0.6,0.8,54,20430,Troy Deeney,4-2-3-1,Anthony Taylor,Match Report,,13,5,22.0,1.0,0,0
+31,2018-03-03,15:00,Premier League,Matchweek 29,Sat,Home,W,1,0,West Brom,1.3,1.1,53,20022,Troy Deeney,4-2-3-1,Paul Tierney,Match Report,,15,3,17.0,0.0,0,0
+32,2018-03-11,13:30,Premier League,Matchweek 30,Sun,Away,L,0,3,Arsenal,1.4,2.2,41,59131,Troy Deeney,4-2-3-1,Martin Atkinson,Match Report,,10,3,18.1,1.0,0,1
+33,2018-03-17,17:30,Premier League,Matchweek 31,Sat,Away,L,0,5,Liverpool,0.4,2.3,42,53287,Troy Deeney,3-4-3,Anthony Taylor,Match Report,,4,1,18.7,1.0,0,0
+34,2018-03-31,15:00,Premier League,Matchweek 32,Sat,Home,D,2,2,Bournemouth,0.7,1.7,50,20393,Troy Deeney,4-2-3-1,Andy Madley,Match Report,,16,5,21.7,1.0,0,0
+35,2018-04-07,15:00,Premier League,Matchweek 33,Sat,Home,L,1,2,Burnley,1.2,1.0,60,20044,Troy Deeney,4-2-3-1,Paul Tierney,Match Report,,14,5,19.5,1.0,0,0
+36,2018-04-14,15:00,Premier League,Matchweek 34,Sat,Away,L,0,1,Huddersfield,0.2,0.8,51,23961,Troy Deeney,4-2-3-1,Craig Pawson,Match Report,,4,2,18.9,0.0,0,0
+37,2018-04-21,15:00,Premier League,Matchweek 35,Sat,Home,D,0,0,Crystal Palace,0.6,0.3,52,20401,Troy Deeney,4-4-2,Chris Kavanagh,Match Report,,14,4,17.5,0.0,0,0
+38,2018-04-30,20:00,Premier League,Matchweek 36,Mon,Away,L,0,2,Tottenham,1.3,1.4,39,52675,Adrian Mariappa,4-2-3-1,Michael Oliver,Match Report,,13,5,15.2,0.0,0,0
+39,2018-05-05,15:00,Premier League,Matchweek 37,Sat,Home,W,2,1,Newcastle Utd,2.5,0.7,39,20375,Troy Deeney,4-4-2,Roger East,Match Report,,10,7,15.7,0.0,0,1
+40,2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,L,0,1,Manchester Utd,0.6,0.4,48,75049,Heurelho Gomes,4-1-4-1,Lee Mason,Match Report,,7,3,16.3,1.0,0,0

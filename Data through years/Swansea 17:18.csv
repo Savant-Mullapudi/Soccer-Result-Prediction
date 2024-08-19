@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2017-08-12,15:00,Premier League,Matchweek 1,Sat,Away,D,0,0,Southampton,0.3,2.0,40,31447,Leon Britton,4-3-1-2,Mike Jones,Match Report,,4,0,15.6,0.0,0,0
+1,2017-08-19,12:30,Premier League,Matchweek 2,Sat,Home,L,0,4,Manchester Utd,0.4,3.0,42,20862,Federico Fernández,3-1-4-2,Jonathan Moss,Match Report,,5,0,19.2,0.0,0,0
+3,2017-08-26,15:00,Premier League,Matchweek 3,Sat,Away,W,2,0,Crystal Palace,0.7,0.9,47,23477,Federico Fernández,3-5-2,Andre Marriner,Match Report,,7,3,12.5,0.0,0,0
+4,2017-09-10,16:00,Premier League,Matchweek 4,Sun,Home,L,0,1,Newcastle Utd,1.2,1.0,62,20872,Federico Fernández,4-3-1-2,Mike Jones,Match Report,,10,3,17.1,2.0,0,0
+5,2017-09-16,17:30,Premier League,Matchweek 5,Sat,Away,D,0,0,Tottenham,0.2,1.1,25,65366,Federico Fernández,3-5-2,Mike Dean,Match Report,,4,0,19.5,0.0,0,0
+7,2017-09-23,15:00,Premier League,Matchweek 6,Sat,Home,L,1,2,Watford,1.7,1.2,51,20372,Federico Fernández,3-5-2,Lee Mason,Match Report,,10,3,12.5,1.0,0,0
+8,2017-09-30,15:00,Premier League,Matchweek 7,Sat,Away,L,0,1,West Ham,0.2,0.7,56,56922,Federico Fernández,4-3-1-2,Roger East,Match Report,,6,1,27.0,1.0,0,0
+9,2017-10-14,15:00,Premier League,Matchweek 8,Sat,Home,W,2,0,Huddersfield,1.5,0.7,41,20657,Leon Britton,4-3-3,Paul Tierney,Match Report,,7,3,14.5,1.0,0,0
+10,2017-10-21,15:00,Premier League,Matchweek 9,Sat,Home,L,1,2,Leicester City,0.8,1.9,56,20521,Leon Britton,4-3-3,Michael Oliver,Match Report,,19,4,22.4,1.0,0,0
+12,2017-10-28,15:00,Premier League,Matchweek 10,Sat,Away,L,1,2,Arsenal,0.9,2.0,28,59493,Federico Fernández,3-5-2,Lee Mason,Match Report,,5,2,15.6,0.0,0,0
+13,2017-11-04,15:00,Premier League,Matchweek 11,Sat,Home,L,0,1,Brighton,1.3,0.9,56,20822,Federico Fernández,4-3-3,Mike Dean,Match Report,,12,2,12.5,0.0,0,0
+14,2017-11-18,15:00,Premier League,Matchweek 12,Sat,Away,L,0,2,Burnley,0.6,1.6,61,18895,Federico Fernández,4-3-3,Martin Atkinson,Match Report,,14,1,22.0,1.0,0,0
+15,2017-11-25,15:00,Premier League,Matchweek 13,Sat,Home,D,0,0,Bournemouth,0.9,0.4,49,20228,Wilfried Bony,4-1-2-1-2◆,Stuart Attwell,Match Report,,10,1,17.4,0.0,0,0
+16,2017-11-29,19:45,Premier League,Matchweek 14,Wed,Away,L,0,1,Chelsea,0.1,1.5,39,41365,Wilfried Bony,4-3-1-2,Niel Swarbrick,Match Report,,2,0,29.3,0.0,0,0
+17,2017-12-02,15:00,Premier League,Matchweek 15,Sat,Away,L,1,2,Stoke City,0.4,1.1,55,28261,Wilfried Bony,4-1-2-1-2◆,Craig Pawson,Match Report,,10,3,21.8,0.0,0,0
+18,2017-12-09,15:00,Premier League,Matchweek 16,Sat,Home,W,1,0,West Brom,1.5,0.3,54,19580,Wilfried Bony,4-3-3,Mike Dean,Match Report,,18,3,19.3,1.0,0,0
+19,2017-12-13,19:45,Premier League,Matchweek 17,Wed,Home,L,0,4,Manchester City,0.6,2.7,22,20870,Wilfried Bony,4-5-1,Anthony Taylor,Match Report,,7,3,18.7,0.0,0,0
+20,2017-12-18,20:00,Premier League,Matchweek 18,Mon,Away,L,1,3,Everton,0.8,2.0,49,37580,Federico Fernández,4-3-3,Jonathan Moss,Match Report,,8,3,22.5,1.0,0,0
+21,2017-12-23,15:00,Premier League,Matchweek 19,Sat,Home,D,1,1,Crystal Palace,0.5,1.3,64,20354,Federico Fernández,4-3-3,Craig Pawson,Match Report,,7,2,19.9,0.0,0,0
+22,2017-12-26,17:30,Premier League,Matchweek 20,Tue,Away,L,0,5,Liverpool,0.4,3.1,45,52850,Federico Fernández,4-5-1,Kevin Friend,Match Report,,7,4,15.4,0.0,0,0
+23,2017-12-30,15:00,Premier League,Matchweek 21,Sat,Away,W,2,1,Watford,1.1,1.2,49,20002,Federico Fernández,4-2-2-2,Martin Atkinson,Match Report,,9,4,19.9,0.0,0,0
+24,2018-01-02,19:45,Premier League,Matchweek 22,Tue,Home,L,0,2,Tottenham,0.4,1.3,33,20615,Àngel Rangel,5-3-2,Robert Madley,Match Report,,8,1,18.1,1.0,0,0
+26,2018-01-13,15:00,Premier League,Matchweek 23,Sat,Away,D,1,1,Newcastle Utd,1.3,1.4,58,51444,Kyle Bartley,4-4-2,Graham Scott,Match Report,,8,3,11.5,0.0,0,0
+28,2018-01-22,20:00,Premier League,Matchweek 24,Mon,Home,W,1,0,Liverpool,0.2,2.5,29,20886,Federico Fernández,5-4-1,Niel Swarbrick,Match Report,,3,2,19.1,0.0,0,0
+30,2018-01-30,19:45,Premier League,Matchweek 25,Tue,Home,W,3,1,Arsenal,2.1,1.3,26,20819,Łukasz Fabiański,5-4-1,Lee Mason,Match Report,,12,4,17.5,0.0,0,0
+31,2018-02-03,15:00,Premier League,Matchweek 26,Sat,Away,D,1,1,Leicester City,0.3,1.7,40,31179,Federico Fernández,5-4-1,Anthony Taylor,Match Report,,3,1,13.1,0.0,0,0
+33,2018-02-10,15:00,Premier League,Matchweek 27,Sat,Home,W,1,0,Burnley,0.7,0.5,57,20179,Federico Fernández,5-4-1,Andre Marriner,Match Report,,13,4,18.7,1.0,0,0
+35,2018-02-24,15:00,Premier League,Matchweek 28,Sat,Away,L,1,4,Brighton,0.6,3.0,53,30523,Federico Fernández,5-4-1,Mike Dean,Match Report,,11,1,22.5,0.0,0,0
+37,2018-03-03,15:00,Premier League,Matchweek 29,Sat,Home,W,4,1,West Ham,1.8,0.4,46,20829,Federico Fernández,5-4-1,Martin Atkinson,Match Report,,8,6,18.0,0.0,1,1
+38,2018-03-10,15:00,Premier League,Matchweek 30,Sat,Away,D,0,0,Huddersfield,0.0,1.4,20,23567,Federico Fernández,5-4-1,Michael Oliver,Match Report,,0,0,,0.0,0,0
+40,2018-03-31,15:00,Premier League,Matchweek 32,Sat,Away,L,0,2,Manchester Utd,0.2,2.2,34,75038,Federico Fernández,5-4-1,Robert Madley,Match Report,,3,2,14.7,0.0,0,0
+41,2018-04-07,15:00,Premier League,Matchweek 33,Sat,Away,D,1,1,West Brom,0.8,1.2,48,23297,Federico Fernández,5-4-1,Roger East,Match Report,,7,1,16.8,0.0,0,0
+42,2018-04-14,15:00,Premier League,Matchweek 34,Sat,Home,D,1,1,Everton,1.3,1.6,51,20933,Federico Fernández,4-4-2,Lee Mason,Match Report,,17,5,15.2,0.0,0,0
+43,2018-04-22,16:30,Premier League,Matchweek 35,Sun,Away,L,0,5,Manchester City,0.3,3.2,18,54387,Federico Fernández,5-4-1,Craig Pawson,Match Report,,4,1,19.9,1.0,0,0
+44,2018-04-28,17:30,Premier League,Matchweek 36,Sat,Home,L,0,1,Chelsea,0.7,1.5,51,20900,André Ayew,3-4-3,Jonathan Moss,Match Report,,10,3,19.7,0.0,0,0
+45,2018-05-05,15:00,Premier League,Matchweek 37,Sat,Away,L,0,1,Bournemouth,1.3,1.9,55,10820,Federico Fernández,3-4-3,Kevin Friend,Match Report,,12,3,17.7,0.0,0,0
+46,2018-05-08,19:45,Premier League,Matchweek 31,Tue,Home,L,0,1,Southampton,0.5,1.2,54,20858,Federico Fernández,3-4-3,Michael Oliver,Match Report,,11,3,21.8,1.0,0,0
+47,2018-05-13,15:00,Premier League,Matchweek 38,Sun,Home,L,1,2,Stoke City,3.0,1.6,58,20673,Àngel Rangel,4-4-2,Anthony Taylor,Match Report,,27,10,16.8,2.0,0,0

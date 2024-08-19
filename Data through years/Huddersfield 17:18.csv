@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2017-08-12,15:00,Premier League,Matchweek 1,Sat,Away,W,3,0,Crystal Palace,1.5,1.1,45,25448,Tommy Smith,4-2-3-1,Jonathan Moss,Match Report,,9,6,16.3,0.0,0,0
+1,2017-08-20,13:30,Premier League,Matchweek 2,Sun,Home,W,1,0,Newcastle Utd,0.3,0.7,52,24128,Tommy Smith,4-2-3-1,Craig Pawson,Match Report,,7,3,23.0,0.0,0,0
+3,2017-08-26,15:00,Premier League,Matchweek 3,Sat,Home,D,0,0,Southampton,1.4,0.7,45,23548,Tommy Smith,4-2-3-1,Stuart Attwell,Match Report,,16,6,16.5,0.0,0,0
+4,2017-09-11,20:00,Premier League,Matchweek 4,Mon,Away,L,0,2,West Ham,0.4,1.7,56,56977,Tommy Smith,4-2-3-1,Kevin Friend,Match Report,,10,2,23.5,0.0,0,0
+5,2017-09-16,15:00,Premier League,Matchweek 5,Sat,Home,D,1,1,Leicester City,0.7,1.3,59,24129,Tommy Smith,4-2-3-1,Jonathan Moss,Match Report,,15,3,19.6,0.0,0,0
+7,2017-09-23,15:00,Premier League,Matchweek 6,Sat,Away,D,0,0,Burnley,0.3,0.3,48,20759,Tommy Smith,4-2-3-1,Chris Kavanagh,Match Report,,9,2,23.0,1.0,0,0
+8,2017-09-30,12:30,Premier League,Matchweek 7,Sat,Home,L,0,4,Tottenham,0.2,1.5,41,24169,Tommy Smith,4-2-3-1,Niel Swarbrick,Match Report,,6,1,23.7,0.0,0,0
+9,2017-10-14,15:00,Premier League,Matchweek 8,Sat,Away,L,0,2,Swansea City,0.7,1.5,59,20657,Tommy Smith,4-2-3-1,Paul Tierney,Match Report,,7,2,21.5,0.0,0,0
+10,2017-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,2,1,Manchester Utd,1.2,0.8,23,24426,Tommy Smith,4-2-3-1,Lee Mason,Match Report,,5,3,13.1,0.0,0,0
+11,2017-10-28,15:00,Premier League,Matchweek 10,Sat,Away,L,0,3,Liverpool,0.1,2.1,28,53268,Tommy Smith,4-5-1,Kevin Friend,Match Report,,1,0,28.0,1.0,0,0
+12,2017-11-04,15:00,Premier League,Matchweek 11,Sat,Home,W,1,0,West Brom,0.3,0.4,50,24169,Jonathan Hogg,4-4-1-1,Roger East,Match Report,,7,3,22.5,0.0,0,0
+13,2017-11-18,15:00,Premier League,Matchweek 12,Sat,Away,L,0,4,Bournemouth,1.2,0.7,69,10879,Aaron Mooy,4-2-3-1,Lee Probert,Match Report,,19,3,18.3,0.0,0,0
+14,2017-11-26,16:00,Premier League,Matchweek 13,Sun,Home,L,1,2,Manchester City,0.6,2.6,22,24121,Tommy Smith,4-5-1,Craig Pawson,Match Report,,4,0,18.2,1.0,0,0
+15,2017-11-29,19:45,Premier League,Matchweek 14,Wed,Away,L,0,5,Arsenal,0.5,4.0,31,59285,Jonathan Hogg,3-4-3,Graham Scott,Match Report,,7,3,15.2,1.0,0,0
+16,2017-12-02,15:00,Premier League,Matchweek 15,Sat,Away,L,0,2,Everton,0.3,0.7,53,39167,Tommy Smith,4-2-3-1,Chris Kavanagh,Match Report,,5,3,16.2,0.0,0,0
+17,2017-12-09,15:00,Premier League,Matchweek 16,Sat,Home,W,2,0,Brighton,2.2,0.3,58,24018,Tommy Smith,4-2-3-1,Stuart Attwell,Match Report,,19,6,15.9,0.0,0,0
+18,2017-12-12,20:00,Premier League,Matchweek 17,Tue,Home,L,1,3,Chelsea,0.7,1.5,36,24169,Tommy Smith,4-5-1,Andre Marriner,Match Report,,7,2,21.0,0.0,0,0
+19,2017-12-16,15:00,Premier League,Matchweek 18,Sat,Away,W,4,1,Watford,3.4,0.6,40,20026,Jonathan Hogg,4-4-2,Michael Oliver,Match Report,,14,6,13.6,1.0,1,1
+20,2017-12-23,15:00,Premier League,Matchweek 19,Sat,Away,D,1,1,Southampton,1.1,1.3,47,29675,Christopher Schindler,4-2-3-1,Lee Probert,Match Report,,10,2,16.0,1.0,0,0
+21,2017-12-26,15:00,Premier League,Matchweek 20,Tue,Home,D,1,1,Stoke City,1.8,1.6,59,24047,Tommy Smith,4-2-3-1,Anthony Taylor,Match Report,,18,7,18.4,2.0,0,0
+22,2017-12-30,15:00,Premier League,Matchweek 21,Sat,Home,D,0,0,Burnley,0.1,1.2,56,24095,Christopher Schindler,4-2-3-1,Paul Tierney,Match Report,,3,1,27.7,0.0,0,0
+23,2018-01-01,15:00,Premier League,Matchweek 22,Mon,Away,L,0,3,Leicester City,0.2,1.5,48,31748,Tommy Smith,4-2-3-1,Graham Scott,Match Report,,6,1,23.0,0.0,0,0
+25,2018-01-13,15:00,Premier League,Matchweek 23,Sat,Home,L,1,4,West Ham,0.7,0.9,63,24105,Tommy Smith,4-2-3-1,Jonathan Moss,Match Report,,8,2,21.0,1.0,0,0
+26,2018-01-20,15:00,Premier League,Matchweek 24,Sat,Away,L,0,2,Stoke City,0.3,1.0,51,29785,Jonathan Hogg,4-2-3-1,Michael Oliver,Match Report,,6,3,21.4,0.0,0,0
+28,2018-01-30,20:00,Premier League,Matchweek 25,Tue,Home,L,0,3,Liverpool,0.3,1.8,26,24121,Jonathan Hogg,5-3-2,Kevin Friend,Match Report,,5,1,16.6,1.0,0,0
+29,2018-02-03,15:00,Premier League,Matchweek 26,Sat,Away,L,0,2,Manchester Utd,0.2,1.6,26,74742,Tommy Smith,4-1-4-1,Stuart Attwell,Match Report,,4,0,15.4,0.0,0,0
+31,2018-02-11,12:00,Premier League,Matchweek 27,Sun,Home,W,4,1,Bournemouth,2.2,0.3,50,23823,Jonathan Hogg,4-2-3-1,Michael Oliver,Match Report,,14,3,19.2,1.0,1,1
+33,2018-02-24,15:00,Premier League,Matchweek 28,Sat,Away,W,2,1,West Brom,1.1,1.2,47,25920,Jonathan Hogg,4-2-3-1,Jonathan Moss,Match Report,,16,7,20.4,1.0,0,0
+34,2018-03-03,15:00,Premier League,Matchweek 29,Sat,Away,L,0,2,Tottenham,0.1,1.6,26,68311,Jonathan Hogg,4-2-3-1,Kevin Friend,Match Report,,3,3,23.7,0.0,0,0
+35,2018-03-10,15:00,Premier League,Matchweek 30,Sat,Home,D,0,0,Swansea City,1.4,0.0,80,23567,Jonathan Hogg,4-2-3-1,Michael Oliver,Match Report,,30,4,17.9,2.0,0,0
+36,2018-03-17,15:00,Premier League,Matchweek 31,Sat,Home,L,0,2,Crystal Palace,0.3,2.7,55,23918,Jonathan Hogg,4-2-3-1,Mike Dean,Match Report,,6,2,20.4,0.0,0,0
+37,2018-03-31,15:00,Premier League,Matchweek 32,Sat,Away,L,0,1,Newcastle Utd,0.1,2.4,37,52261,Tommy Smith,4-4-2,Martin Atkinson,Match Report,,4,0,24.6,0.0,0,0
+38,2018-04-07,15:00,Premier League,Matchweek 33,Sat,Away,D,1,1,Brighton,1.5,1.5,58,30501,Jonathan Hogg,4-4-1-1,Anthony Taylor,Match Report,,15,5,17.9,0.0,0,0
+39,2018-04-14,15:00,Premier League,Matchweek 34,Sat,Home,W,1,0,Watford,0.8,0.2,49,23961,Jonathan Hogg,4-2-3-1,Craig Pawson,Match Report,,9,1,17.3,0.0,0,0
+40,2018-04-28,15:00,Premier League,Matchweek 36,Sat,Home,L,0,2,Everton,0.6,0.6,54,24121,Jonathan Hogg,4-2-3-1,Lee Probert,Match Report,,9,2,20.9,0.0,0,0
+41,2018-05-06,13:30,Premier League,Matchweek 37,Sun,Away,D,0,0,Manchester City,0.2,0.8,22,54350,Tommy Smith,5-3-2,Mike Dean,Match Report,,5,3,21.8,0.0,0,0
+42,2018-05-09,19:45,Premier League,Matchweek 35,Wed,Away,D,1,1,Chelsea,0.7,1.9,22,38910,Tommy Smith,5-3-2,Lee Mason,Match Report,,3,2,22.4,0.0,0,0
+43,2018-05-13,15:00,Premier League,Matchweek 38,Sun,Home,L,0,1,Arsenal,1.7,2.0,45,24122,Jonathan Hogg,5-3-2,Michael Oliver,Match Report,,19,3,15.7,0.0,0,0

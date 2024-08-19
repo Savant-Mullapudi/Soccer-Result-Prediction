@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+1,2017-08-12,15:00,Premier League,Matchweek 1,Sat,Home,L,2,3,Burnley,1.5,0.6,62.0,41616,Gary Cahill,3-4-3,Craig Pawson,Match Report,,19,6,21.3,1.0,0,0
+2,2017-08-20,16:00,Premier League,Matchweek 2,Sun,Away,W,2,1,Tottenham,0.7,0.7,32.0,73587,César Azpilicueta,3-5-1-1,Anthony Taylor,Match Report,,9,2,16.6,1.0,0,0
+3,2017-08-27,13:30,Premier League,Matchweek 3,Sun,Home,W,2,0,Everton,1.0,0.4,57.0,41382,César Azpilicueta,3-4-3,Jonathan Moss,Match Report,,18,7,19.4,0.0,0,0
+4,2017-09-09,15:00,Premier League,Matchweek 4,Sat,Away,W,2,1,Leicester City,0.8,1.4,59.0,30923,César Azpilicueta,3-4-3,Lee Mason,Match Report,,16,6,21.0,1.0,0,0
+6,2017-09-17,13:30,Premier League,Matchweek 5,Sun,Home,D,0,0,Arsenal,0.8,1.4,51.0,41478,Gary Cahill,3-4-3,Michael Oliver,Match Report,,13,4,21.1,0.0,0,0
+8,2017-09-23,15:00,Premier League,Matchweek 6,Sat,Away,W,4,0,Stoke City,1.4,0.8,55.0,29661,César Azpilicueta,3-4-3,Mike Dean,Match Report,,7,4,11.7,0.0,0,0
+10,2017-09-30,17:30,Premier League,Matchweek 7,Sat,Home,L,0,1,Manchester City,0.5,0.9,39.0,41530,Gary Cahill,3-5-1-1,Martin Atkinson,Match Report,,4,2,11.5,0.0,0,0
+11,2017-10-14,15:00,Premier League,Matchweek 8,Sat,Away,L,1,2,Crystal Palace,0.8,1.7,57.0,25480,Gary Cahill,3-4-3,Andre Marriner,Match Report,,15,5,20.0,1.0,0,0
+13,2017-10-21,12:30,Premier League,Matchweek 9,Sat,Home,W,4,2,Watford,1.9,1.9,52.0,41467,Gary Cahill,3-4-3,Jonathan Moss,Match Report,,14,8,19.8,0.0,0,0
+15,2017-10-28,17:30,Premier League,Matchweek 10,Sat,Away,W,1,0,Bournemouth,1.6,0.5,58.0,10998,César Azpilicueta,3-4-3,Craig Pawson,Match Report,,18,5,15.1,0.0,0,0
+17,2017-11-05,16:30,Premier League,Matchweek 11,Sun,Home,W,1,0,Manchester Utd,1.6,0.7,54.0,41615,Gary Cahill,3-1-4-2,Anthony Taylor,Match Report,,18,8,17.2,0.0,0,0
+18,2017-11-18,15:00,Premier League,Matchweek 12,Sat,Away,W,4,0,West Brom,1.6,0.8,61.0,23592,Gary Cahill,3-5-1-1,Jonathan Moss,Match Report,,11,7,14.9,0.0,0,0
+20,2017-11-25,17:30,Premier League,Matchweek 13,Sat,Away,D,1,1,Liverpool,0.8,1.2,47.0,53225,Gary Cahill,3-5-1-1,Michael Oliver,Match Report,,11,3,17.5,1.0,0,0
+21,2017-11-29,19:45,Premier League,Matchweek 14,Wed,Home,W,1,0,Swansea City,1.5,0.1,61.0,41365,Gary Cahill,3-4-3,Niel Swarbrick,Match Report,,21,10,16.4,0.0,0,0
+22,2017-12-02,12:30,Premier League,Matchweek 15,Sat,Home,W,3,1,Newcastle Utd,3.2,0.6,65.0,41538,César Azpilicueta,3-5-1-1,Kevin Friend,Match Report,,22,8,16.6,0.0,1,1
+24,2017-12-09,12:30,Premier League,Matchweek 16,Sat,Away,L,0,1,West Ham,1.2,0.3,69.0,56953,Gary Cahill,3-5-1-1,Anthony Taylor,Match Report,,19,2,18.2,0.0,0,0
+25,2017-12-12,20:00,Premier League,Matchweek 17,Tue,Away,W,3,1,Huddersfield,1.5,0.7,64.0,24169,César Azpilicueta,3-4-3,Andre Marriner,Match Report,,12,5,15.2,0.0,0,0
+26,2017-12-16,15:00,Premier League,Matchweek 18,Sat,Home,W,1,0,Southampton,1.4,0.5,54.0,41562,Gary Cahill,3-4-3,Roger East,Match Report,,24,8,19.4,1.0,0,0
+28,2017-12-23,12:30,Premier League,Matchweek 19,Sat,Away,D,0,0,Everton,1.8,0.3,68.0,39191,César Azpilicueta,3-4-3,Robert Madley,Match Report,,25,5,19.5,1.0,0,0
+29,2017-12-26,15:00,Premier League,Matchweek 20,Tue,Home,W,2,0,Brighton,2.1,0.5,67.0,41568,Gary Cahill,3-5-1-1,Mike Dean,Match Report,,25,7,18.0,2.0,0,0
+30,2017-12-30,15:00,Premier League,Matchweek 21,Sat,Home,W,5,0,Stoke City,2.6,0.2,59.0,41433,Gary Cahill,3-4-3,Kevin Friend,Match Report,,20,11,20.9,0.0,1,1
+31,2018-01-03,19:45,Premier League,Matchweek 22,Wed,Away,D,2,2,Arsenal,3.0,1.2,42.0,59379,Gary Cahill,3-5-1-1,Anthony Taylor,Match Report,,18,5,16.9,1.0,1,1
+34,2018-01-13,15:00,Premier League,Matchweek 23,Sat,Home,D,0,0,Leicester City,0.6,1.2,56.0,41552,Gary Cahill,3-5-1-1,Mike Jones,Match Report,,17,7,22.2,1.0,0,0
+36,2018-01-20,12:30,Premier League,Matchweek 24,Sat,Away,W,4,0,Brighton,1.3,0.8,58.0,30600,César Azpilicueta,3-4-3,Jonathan Moss,Match Report,,14,10,20.4,3.0,0,0
+39,2018-01-31,19:45,Premier League,Matchweek 25,Wed,Home,L,0,3,Bournemouth,1.2,1.1,65.0,41464,Gary Cahill,3-4-3,Lee Probert,Match Report,,21,5,17.9,2.0,0,0
+40,2018-02-05,20:00,Premier League,Matchweek 26,Mon,Away,L,1,4,Watford,0.7,2.3,55.0,20157,Gary Cahill,3-4-3,Mike Dean,Match Report,,7,3,17.3,0.0,0,0
+41,2018-02-12,20:00,Premier League,Matchweek 27,Mon,Home,W,3,0,West Brom,1.9,0.7,57.0,41071,César Azpilicueta,3-4-3,Lee Mason,Match Report,,20,8,15.7,1.0,0,0
+44,2018-02-25,14:05,Premier League,Matchweek 28,Sun,Away,L,1,2,Manchester Utd,1.7,1.2,56.0,75060,César Azpilicueta,3-4-3,Martin Atkinson,Match Report,,14,7,18.2,1.0,0,0
+45,2018-03-04,16:00,Premier League,Matchweek 29,Sun,Away,L,0,1,Manchester City,0.1,0.9,29.0,54328,César Azpilicueta,3-4-3,Michael Oliver,Match Report,,3,0,17.6,0.0,0,0
+46,2018-03-10,17:30,Premier League,Matchweek 30,Sat,Home,W,2,1,Crystal Palace,3.1,1.1,62.0,40800,Gary Cahill,3-4-3,Anthony Taylor,Match Report,,27,8,17.5,1.0,0,0
+49,2018-04-01,16:00,Premier League,Matchweek 32,Sun,Home,L,1,3,Tottenham,1.0,1.4,49.0,41364,César Azpilicueta,3-4-3,Andre Marriner,Match Report,,14,4,17.1,0.0,0,0
+50,2018-04-08,16:30,Premier League,Matchweek 33,Sun,Home,D,1,1,West Ham,1.7,0.3,59.0,41324,Gary Cahill,3-4-3,Kevin Friend,Match Report,,23,6,16.7,0.0,0,0
+51,2018-04-14,12:30,Premier League,Matchweek 34,Sat,Away,W,3,2,Southampton,0.8,1.0,58.0,31764,Gary Cahill,3-4-3,Mike Dean,Match Report,,17,5,21.5,0.0,0,0
+52,2018-04-19,19:45,Premier League,Matchweek 31,Thu,Away,W,2,1,Burnley,1.7,0.2,60.0,21264,Gary Cahill,3-5-2,Robert Madley,Match Report,,16,5,16.8,1.0,0,0
+54,2018-04-28,17:30,Premier League,Matchweek 36,Sat,Away,W,1,0,Swansea City,1.5,0.7,49.0,20900,Gary Cahill,3-5-1-1,Jonathan Moss,Match Report,,11,3,13.5,0.0,0,0
+55,2018-05-06,16:30,Premier League,Matchweek 37,Sun,Home,W,1,0,Liverpool,0.6,0.5,32.0,41314,Gary Cahill,3-5-1-1,Anthony Taylor,Match Report,,12,4,16.6,0.0,0,0
+56,2018-05-09,19:45,Premier League,Matchweek 35,Wed,Home,D,1,1,Huddersfield,1.9,0.7,78.0,38910,César Azpilicueta,3-4-3,Lee Mason,Match Report,,22,5,13.9,0.0,0,0
+57,2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,L,0,3,Newcastle Utd,1.0,2.2,58.0,52294,Gary Cahill,3-5-1-1,Martin Atkinson,Match Report,,6,2,14.6,0.0,0,0

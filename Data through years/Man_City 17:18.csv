@@ -1,0 +1,39 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2017-08-12,17:30,Premier League,Matchweek 1,Sat,Away,W,2,0,Brighton,1.9,0.3,77,30415,Vincent Kompany,3-1-4-2,Michael Oliver,Match Report,,14,4,19.5,2.0,0,0
+1,2017-08-21,20:00,Premier League,Matchweek 2,Mon,Home,D,1,1,Everton,1.1,0.6,64,49108,Vincent Kompany,3-1-4-2,Robert Madley,Match Report,,19,6,20.0,1.0,0,0
+2,2017-08-26,12:30,Premier League,Matchweek 3,Sat,Away,W,2,1,Bournemouth,1.4,0.5,70,10419,Vincent Kompany,4-3-3,Mike Dean,Match Report,,19,8,16.2,1.0,0,0
+3,2017-09-09,12:30,Premier League,Matchweek 4,Sat,Home,W,5,0,Liverpool,2.4,0.7,66,54172,David Silva,3-1-4-2,Jonathan Moss,Match Report,,13,10,14.0,0.0,0,0
+5,2017-09-16,15:00,Premier League,Matchweek 5,Sat,Away,W,6,0,Watford,3.3,0.5,67,20305,David Silva,4-3-3,Anthony Taylor,Match Report,,27,9,17.2,0.0,1,1
+7,2017-09-23,15:00,Premier League,Matchweek 6,Sat,Home,W,5,0,Crystal Palace,4.5,0.6,71,53526,David Silva,4-3-3,Niel Swarbrick,Match Report,,25,9,13.5,0.0,0,0
+9,2017-09-30,17:30,Premier League,Matchweek 7,Sat,Away,W,1,0,Chelsea,0.9,0.5,61,41530,David Silva,4-3-3,Martin Atkinson,Match Report,,17,5,18.0,1.0,0,0
+10,2017-10-14,15:00,Premier League,Matchweek 8,Sat,Home,W,7,2,Stoke City,3.8,0.5,79,54128,David Silva,4-3-3,Craig Pawson,Match Report,,20,11,16.1,2.0,0,0
+12,2017-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,3,0,Burnley,3.1,0.2,77,54118,David Silva,4-3-3,Roger East,Match Report,,14,9,15.0,0.0,1,1
+14,2017-10-28,15:00,Premier League,Matchweek 10,Sat,Away,W,3,2,West Brom,2.3,1.5,77,24003,David Silva,4-3-3,Mike Jones,Match Report,,15,5,20.1,2.0,0,0
+16,2017-11-05,14:15,Premier League,Matchweek 11,Sun,Home,W,3,1,Arsenal,1.8,0.3,57,54286,David Silva,4-3-3,Michael Oliver,Match Report,,8,4,16.5,0.0,1,1
+17,2017-11-18,15:00,Premier League,Matchweek 12,Sat,Away,W,2,0,Leicester City,1.9,0.2,73,31908,Vincent Kompany,4-3-3,Graham Scott,Match Report,,12,4,17.7,0.0,0,0
+19,2017-11-26,16:00,Premier League,Matchweek 13,Sun,Away,W,2,1,Huddersfield,2.6,0.6,78,24121,Vincent Kompany,4-3-3,Craig Pawson,Match Report,,13,4,17.5,1.0,1,1
+20,2017-11-29,20:00,Premier League,Matchweek 14,Wed,Home,W,2,1,Southampton,1.4,1.3,74,53407,Vincent Kompany,4-3-3,Paul Tierney,Match Report,,26,12,21.6,0.0,0,0
+21,2017-12-03,16:00,Premier League,Matchweek 15,Sun,Home,W,2,1,West Ham,2.3,0.6,76,54203,David Silva,4-3-3,Mike Dean,Match Report,,24,8,19.6,1.0,0,0
+23,2017-12-10,16:30,Premier League,Matchweek 16,Sun,Away,W,2,1,Manchester Utd,1.7,1.4,64,74847,Vincent Kompany,4-3-3,Michael Oliver,Match Report,,14,7,17.9,0.0,0,0
+24,2017-12-13,19:45,Premier League,Matchweek 17,Wed,Away,W,4,0,Swansea City,2.7,0.6,78,20870,David Silva,4-3-3,Anthony Taylor,Match Report,,23,10,16.0,2.0,0,0
+25,2017-12-16,17:30,Premier League,Matchweek 18,Sat,Home,W,4,1,Tottenham,3.4,0.2,52,54214,Fernandinho,4-3-3,Craig Pawson,Match Report,,19,11,15.3,0.0,0,1
+27,2017-12-23,15:00,Premier League,Matchweek 19,Sat,Home,W,4,0,Bournemouth,1.5,0.4,78,54270,Vincent Kompany,4-3-3,Mike Jones,Match Report,,14,5,20.2,0.0,0,0
+28,2017-12-27,19:45,Premier League,Matchweek 20,Wed,Away,W,1,0,Newcastle Utd,1.8,0.2,77,52311,Vincent Kompany,4-3-3,Andre Marriner,Match Report,,21,6,17.3,0.0,0,0
+29,2017-12-31,12:00,Premier League,Matchweek 21,Sun,Away,D,0,0,Crystal Palace,1.3,1.3,74,25804,Fernandinho,4-3-3,Jonathan Moss,Match Report,,15,4,21.2,4.0,0,0
+30,2018-01-02,20:00,Premier League,Matchweek 22,Tue,Home,W,3,1,Watford,2.1,1.0,76,53556,David Silva,4-3-3,Lee Mason,Match Report,,18,7,14.9,2.0,0,0
+33,2018-01-14,16:00,Premier League,Matchweek 23,Sun,Away,L,3,4,Liverpool,0.8,0.8,64,53285,Fernandinho,4-3-3,Andre Marriner,Match Report,,11,4,19.0,0.0,0,0
+34,2018-01-20,17:30,Premier League,Matchweek 24,Sat,Home,W,3,1,Newcastle Utd,2.1,1.0,80,54452,David Silva,4-3-3,Paul Tierney,Match Report,,20,8,18.2,1.0,1,1
+37,2018-01-31,20:00,Premier League,Matchweek 25,Wed,Home,W,3,0,West Brom,2.3,0.2,73,53241,David Silva,4-3-3,Robert Madley,Match Report,,19,10,18.5,2.0,0,0
+38,2018-02-03,12:30,Premier League,Matchweek 26,Sat,Away,D,1,1,Burnley,1.8,0.9,70,21658,Vincent Kompany,4-3-3,Martin Atkinson,Match Report,,20,7,18.8,1.0,0,0
+39,2018-02-10,17:30,Premier League,Matchweek 27,Sat,Home,W,5,1,Leicester City,2.5,0.1,70,54416,Fernandinho,4-3-3,Mike Jones,Match Report,,19,10,16.1,0.0,0,0
+43,2018-03-01,19:45,Premier League,Matchweek 28,Thu,Away,W,3,0,Arsenal,1.5,1.3,54,58420,Vincent Kompany,4-3-3,Andre Marriner,Match Report,,9,5,15.5,0.0,0,0
+44,2018-03-04,16:00,Premier League,Matchweek 29,Sun,Home,W,1,0,Chelsea,0.9,0.1,71,54328,David Silva,4-3-3,Michael Oliver,Match Report,,13,2,16.7,0.0,0,0
+46,2018-03-12,20:00,Premier League,Matchweek 30,Mon,Away,W,2,0,Stoke City,1.6,0.4,76,29138,Vincent Kompany,4-3-3,Jonathan Moss,Match Report,,17,6,17.7,0.0,0,0
+47,2018-03-31,17:30,Premier League,Matchweek 32,Sat,Away,W,3,1,Everton,1.5,0.9,81,39221,Vincent Kompany,3-5-2,Paul Tierney,Match Report,,18,4,20.2,0.0,0,0
+49,2018-04-07,17:30,Premier League,Matchweek 33,Sat,Home,L,2,3,Manchester Utd,2.6,1.1,64,54259,Vincent Kompany,4-3-3,Martin Atkinson,Match Report,,20,6,16.9,1.0,0,0
+51,2018-04-14,19:45,Premier League,Matchweek 34,Sat,Away,W,3,1,Tottenham,2.9,0.4,52,80811,Vincent Kompany,4-3-3,Jonathan Moss,Match Report,,16,5,18.0,2.0,1,1
+52,2018-04-22,16:30,Premier League,Matchweek 35,Sun,Home,W,5,0,Swansea City,3.2,0.3,82,54387,Vincent Kompany,4-3-3,Craig Pawson,Match Report,,18,11,16.7,1.0,0,1
+53,2018-04-29,14:15,Premier League,Matchweek 36,Sun,Away,W,4,1,West Ham,2.4,0.2,74,56904,Fernandinho,4-3-3,Niel Swarbrick,Match Report,,19,7,19.2,1.0,0,0
+54,2018-05-06,13:30,Premier League,Matchweek 37,Sun,Home,D,0,0,Huddersfield,0.8,0.2,78,54350,David Silva,4-3-3,Mike Dean,Match Report,,15,2,19.3,0.0,0,0
+55,2018-05-09,20:00,Premier League,Matchweek 31,Wed,Home,W,3,1,Brighton,1.6,1.2,73,54013,Yaya Touré,4-3-3,Paul Tierney,Match Report,,19,7,19.3,1.0,0,0
+56,2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,W,1,0,Southampton,0.8,0.5,69,31882,Fernandinho,4-3-3,Andre Marriner,Match Report,,13,2,21.2,1.0,0,0
