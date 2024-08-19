@@ -1,0 +1,33 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt
+0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,D,1.0,1.0,Bournemouth,1.1,1.3,38.0,11245.0,Kurt Zouma,4-2-3-1,Peter Bankes,Match Report,,16,2,16.1,0.0,0,0
+1,2023-08-20,16:30,Premier League,Matchweek 2,Sun,Home,W,3.0,1.0,Chelsea,1.8,2.5,25.0,62451.0,Kurt Zouma,4-2-3-1,John Brooks,Match Report,,11,5,19.6,0.0,1,1
+2,2023-08-26,17:30,Premier League,Matchweek 3,Sat,Away,W,3.0,1.0,Brighton,3.0,1.5,22.0,31508.0,Kurt Zouma,4-1-4-1,Anthony Taylor,Match Report,,12,7,12.3,0.0,0,0
+3,2023-09-01,20:00,Premier League,Matchweek 4,Fri,Away,W,2.0,1.0,Luton Town,1.0,1.4,61.0,10802.0,Kurt Zouma,4-2-3-1,Paul Tierney,Match Report,,9,3,16.3,0.0,0,0
+4,2023-09-16,15:00,Premier League,Matchweek 5,Sat,Home,L,1.0,3.0,Manchester City,0.9,3.6,32.0,62475.0,Kurt Zouma,4-2-3-1,Andy Madley,Match Report,,6,3,12.1,0.0,0,0
+6,2023-09-24,14:00,Premier League,Matchweek 6,Sun,Away,L,1.0,3.0,Liverpool,1.1,3.0,37.0,50136.0,Kurt Zouma,4-2-3-1,Chris Kavanagh,Match Report,,11,4,13.5,0.0,0,0
+8,2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,W,2.0,0.0,Sheffield Utd,2.1,1.1,52.0,62459.0,Kurt Zouma,4-2-3-1,Graham Scott,Match Report,,20,8,12.6,1.0,0,0
+10,2023-10-08,14:00,Premier League,Matchweek 8,Sun,Home,D,2.0,2.0,Newcastle Utd,1.2,2.0,36.0,62473.0,Kurt Zouma,4-2-3-1,Peter Bankes,Match Report,,5,3,14.9,1.0,0,0
+11,2023-10-22,16:30,Premier League,Matchweek 9,Sun,Away,L,1.0,4.0,Aston Villa,1.1,1.9,42.0,41734.0,Kurt Zouma,4-2-3-1,David Coote,Match Report,,14,4,15.2,1.0,0,0
+13,2023-10-29,13:00,Premier League,Matchweek 10,Sun,Home,L,0.0,1.0,Everton,0.7,0.8,64.0,62469.0,Kurt Zouma,4-2-3-1,Stuart Attwell,Match Report,,12,2,17.3,0.0,0,0
+15,2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,L,2.0,3.0,Brentford,1.8,1.5,42.0,17103.0,James Ward-Prowse,4-4-2,Thomas Bramall,Match Report,,12,2,15.3,0.0,0,0
+17,2023-11-12,14:00,Premier League,Matchweek 12,Sun,Home,W,3.0,2.0,Nott'ham Forest,1.8,1.7,54.0,62470.0,Kurt Zouma,4-2-3-1,Michael Salisbury,Match Report,,16,6,18.0,1.0,0,0
+18,2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,2.0,1.0,Burnley,0.9,1.3,50.0,21319.0,Kurt Zouma,4-2-3-1,Samuel Barrott,Match Report,,11,3,13.2,0.0,0,0
+20,2023-12-03,14:00,Premier League,Matchweek 14,Sun,Home,D,1.0,1.0,Crystal Palace,1.1,0.9,55.0,62414.0,Tomáš Souček,4-2-3-1,Michael Oliver,Match Report,,9,3,15.7,1.0,0,0
+21,2023-12-07,20:15,Premier League,Matchweek 15,Thu,Away,W,2.0,1.0,Tottenham,2.2,1.8,26.0,61171.0,Kurt Zouma,4-3-3,Michael Salisbury,Match Report,,11,5,15.0,0.0,0,0
+22,2023-12-10,14:00,Premier League,Matchweek 16,Sun,Away,L,0.0,5.0,Fulham,1.3,2.3,37.0,23988.0,Kurt Zouma,4-4-1-1,Paul Tierney,Match Report,,9,5,19.2,1.0,0,0
+24,2023-12-17,14:00,Premier League,Matchweek 17,Sun,Home,W,3.0,0.0,Wolves,1.1,0.7,45.0,62455.0,Kurt Zouma,4-2-3-1,Chris Kavanagh,Match Report,,13,4,19.8,2.0,0,0
+26,2023-12-23,12:30,Premier League,Matchweek 18,Sat,Home,W,2.0,0.0,Manchester Utd,1.2,1.0,35.0,64472.0,Kurt Zouma,4-2-3-1,Simon Hooper,Match Report,,12,5,13.8,0.0,0,0
+27,2023-12-28,20:15,Premier League,Matchweek 19,Thu,Away,W,2.0,0.0,Arsenal,1.4,2.7,27.0,60261.0,Angelo Ogbonna,4-2-3-1,Michael Oliver,Match Report,,5,2,17.4,0.0,0,1
+28,2024-01-02,19:30,Premier League,Matchweek 20,Tue,Home,D,0.0,0.0,Brighton,0.7,2.3,32.0,62462.0,Angelo Ogbonna,4-2-3-1,Samuel Barrott,Match Report,,6,2,16.0,0.0,0,0
+31,2024-01-21,14:00,Premier League,Matchweek 21,Sun,Away,D,2.0,2.0,Sheffield Utd,2.3,2.5,43.0,29164.0,Kurt Zouma,4-4-1-1,Michael Salisbury,Match Report,,15,4,14.9,0.0,1,1
+32,2024-02-01,19:30,Premier League,Matchweek 22,Thu,Home,D,1.0,1.0,Bournemouth,1.4,1.2,48.0,62478.0,Kurt Zouma,4-3-2-1,Tim Robinson,Match Report,,8,2,17.1,0.0,1,1
+33,2024-02-04,14:00,Premier League,Matchweek 23,Sun,Away,L,0.0,3.0,Manchester Utd,1.4,0.7,49.0,73612.0,Kurt Zouma,4-2-3-1,Andy Madley,Match Report,,22,3,18.9,1.0,0,0
+34,2024-02-11,14:00,Premier League,Matchweek 24,Sun,Home,L,0.0,6.0,Arsenal,0.2,3.6,30.0,62475.0,Kurt Zouma,4-2-3-1,Craig Pawson,Match Report,,5,1,19.9,0.0,0,0
+35,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,L,0.0,2.0,Nott'ham Forest,0.5,2.8,51.0,29490.0,Kurt Zouma,4-2-3-1,Thomas Bramall,Match Report,,10,3,18.9,1.0,0,0
+36,2024-02-26,20:00,Premier League,Matchweek 26,Mon,Home,W,4.0,2.0,Brentford,1.7,0.9,41.0,62450.0,Kurt Zouma,4-2-3-1,Simon Hooper,Match Report,,17,6,17.7,0.0,0,0
+37,2024-03-02,15:00,Premier League,Matchweek 27,Sat,Away,W,3.0,1.0,Everton,1.9,2.7,45.0,39262.0,Kurt Zouma,4-2-3-1,Craig Pawson,Match Report,,12,5,14.2,0.0,0,0
+39,2024-03-10,14:00,Premier League,Matchweek 28,Sun,Home,D,2.0,2.0,Burnley,2.1,0.7,52.0,62441.0,Tomáš Souček,4-2-3-1,Darren England,Match Report,,22,4,14.8,0.0,0,0
+41,2024-03-17,14:00,Premier League,Matchweek 29,Sun,Home,D,1.0,1.0,Aston Villa,2.0,0.7,31.0,62461.0,Kurt Zouma,4-2-3-1,Jarred Gillett,Match Report,,13,4,15.9,1.0,0,0
+42,2024-03-30,12:30,Premier League,Matchweek 30,Sat,Away,L,3.0,4.0,Newcastle Utd,1.4,4.1,40.0,52199.0,Kurt Zouma,4-2-3-1,Robert Jones,Match Report,,10,4,14.1,0.0,0,0
+43,2024-04-02,20:15,Premier League,Matchweek 31,Tue,Home,D,1.0,1.0,Tottenham,1.5,1.0,33.0,62469.0,Kurt Zouma,4-5-1,John Brooks,Match Report,,11,4,16.6,1.0,0,0
+44,2024-04-06,15:00,Premier League,Matchweek 32,Sat,Away,W,2.0,1.0,Wolves,1.2,1.5,42.0,31504.0,Kurt Zouma,4-2-3-1,Tony Harrington,Match Report,,10,3,24.6,2.0,1,1
