@@ -24,3 +24,7 @@ This project aims to predict soccer match results using data scraping, machine l
 - Execution: Run the notebook to visualize the data as per the requirements.
 
 Ensure all necessary files are present in the same directory and follow the instructions provided within each notebook for successful execution in jupyter notebook.
+
+https://colab.research.google.com/github/Savant-Mullapudi/Soccer-Result-Prediction/blob/main/start_scraping_data.ipynb,
+https://colab.research.google.com/github/Savant-Mullapudi/Soccer-Result-Prediction/blob/main/start_predicting_data.ipynb,
+https://colab.research.google.com/github/Savant-Mullapudi/Soccer-Result-Prediction/blob/main/start_visualizing_data.ipynb
